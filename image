@@ -80,20 +80,12 @@
 		document.getElementById('chart2'), config);
 	</script>
 
-     
-
-
-
-
-
-
-
-
-
-
 
 
 
 
 
 </body>
+
+
+</html>
